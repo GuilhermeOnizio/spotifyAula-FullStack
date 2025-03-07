@@ -10,3 +10,5 @@ Hashtag Treinamentos pela incrível Jornada Full Stack.
 Comunidade de desenvolvedores por todo o suporte e inspiração.
 
 🎧 Happy coding! 🎧
+
+![Screenshot_2](https://github.com/user-attachments/assets/941305d9-3f2d-4340-8ac0-3c3c3d98d316)
